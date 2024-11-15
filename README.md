@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I am Aja Washington (she/her)
 
-I am a 28-year-old software engineer and Nashville native who has dedicated most of my life to the performing arts, including dancing, singing, and acting. Since the age of 15, I have been an instructor in the performing arts, choreographing, directing, and shaping curricula for future batches of young performers.
+I am an software engineer and Nashville native who has dedicated most of my life to the performing arts, including dancing, singing, and acting. Since the age of 15, I have been an instructor in the performing arts, choreographing, directing, and shaping curricula for future batches of young performers.
 
 My transition to tech was motivated by a desire for a career that offers stability, consistent growth, and creativity. As a boot camp student, I became involved in the Nashville technical community around 2019, completing the Nashville Software School's (NSS) 6-month Full Stack Web Development course, focusing on Javascript/React, and C#/.Net programming languages and frameworks. 
 
