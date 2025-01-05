@@ -1,4 +1,4 @@
-<img width="2000" alt="Screen Shot 2023-12-18 at 11 17 55 PM" src="https://github.com/ajawashington/ajawashington/assets/57641436/e3366ed2-a74e-4457-9fec-689b298d8072">
+<!--- <img width="2000" alt="Screen Shot 2023-12-18 at 11 17 55 PM" src="https://github.com/ajawashington/ajawashington/assets/57641436/e3366ed2-a74e-4457-9fec-689b298d8072"> --->
 
 ## Hi there 👋 I am Aja Washington (she/her)
 
